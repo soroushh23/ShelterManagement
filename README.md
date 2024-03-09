@@ -1,4 +1,4 @@
-# ShelterManagement-
+# ShelterManagement
 
 Introduction: 
 A shelter provides temporary homes for stray or unwanted pet animals which can be offered later for adoption. This shelter needs a set of interfaces and classes to manage pets’ adoption. This shelter can accommodate two types of pets: Cats and Dogs. The services offered by the shelter are:
