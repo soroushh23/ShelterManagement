@@ -18,4 +18,4 @@ The solutions demonstrate:
 - The implementation of factories,
 - The ability to implement simple algorithms,
 - The ability to write Javadoc comments, and
-- The ability to test your code
+- The ability to test your code.
