@@ -8,3 +8,14 @@ A shelter provides temporary homes for stray or unwanted pet animals which can b
 Dogs can only get adopted to customers who own a garden. A customer can adopt 3 pets at most. Only Dogs can be trained.
 
 The shelter should maintain a record of pets added to the shelter. The shelter needs to maintain another record that associates a customer with the pets they have adopted.
+
+
+The solutions demonstrate:
+- The sensible use of Java inheritance mechanisms, an understanding of how to use interfaces,
+- The ability to handle collections of objects,
+- The use of defensive programming, including use of immutability, appropriate error handling, validation of input and using appropriate accessors and modifiers on instance variables, methods, and classes.
+- An understanding of when and how to override Object methods,
+- The implementation of factories,
+- The ability to implement simple algorithms,
+- The ability to write Javadoc comments, and
+- The ability to test your code
